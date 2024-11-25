@@ -6,7 +6,7 @@ Este repositório centraliza os códigos de aplicações e automações desenvol
 ---
 
 ## 📋 **Objetivo**
-Agrupar e organizar os códigos relacionados às iniciativas de inovação e tecnologia para atender as demandas hospitalares e de urgência/emergência. Este repositório é um ponto único de acesso para projetos desenvolvidos pela DIT.
+Agrupar e organizar os códigos relacionados às iniciativas de inovação e tecnologia para atender as demandas da subhue. Este repositório é um ponto único de acesso para projetos desenvolvidos pela DIT.
 
 ---
 
@@ -24,8 +24,8 @@ A organização do repositório segue o padrão abaixo:
 ---
 
 ## 🚀 **Projetos Principais**
-1. **Sistema de Integração Hospitalar**: Integração de sistemas médicos e administrativos.
-2. **Automação de Fluxos de Urgência**: Automação de tarefas críticas para o atendimento de urgência.
+1. **Site SUBHUE**: Portal responsável por centralizar todas as informações possiveis que ajudem os profissionais da secretaria no seu dia a dia, assim como hospedar automatizações de processos e formulários que captem dados em geral.
+2. **Automação de Fluxos**: Automação de tarefas que impeçam um melhor fluxo de trabalho.
 3. **Painéis de Monitoramento**: Desenvolvimento de dashboards interativos e personalizáveis.
 
 ---
