@@ -1,6 +1,6 @@
-# DIT-SUBHUE
+# Divisão de Inovação e Inteligência de Dados - DIID
 
-Repositório oficial da **Divisão de Inovação e Tecnologia (DIT)** da **Subsecretaria de Atenção Hospitalar Urgência e Emergência (SUBHUE)**.  
+Repositório oficial da **Divisão de Inovação e Inteligência de Dados (DIID) ** da **Subsecretaria de Atenção Hospitalar Urgência e Emergência (SUBHUE)**.  
 Este repositório centraliza os códigos de aplicações e automações desenvolvidos para melhorar os processos, integrar sistemas e automatizar fluxos na área da saúde.
 
 ---
